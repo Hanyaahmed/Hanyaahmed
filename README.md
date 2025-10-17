@@ -5,8 +5,7 @@
 I’m a Cybersecurity Graduate Student with a foundation in Data Science and Risk Analysis. I’m passionate about strengthening organizational resilience through Governance, Risk, and Compliance (GRC) and Blue Team operations. 
 My work combines analytical thinking, data-driven decision-making, and proactive defense to help organizations stay secure and compliant.
 
-## Objective
-To contribute to a cybersecurity internship—whether in GRC, SOC operations, or threat analysis—where I can apply my technical, analytical, and risk management skills while gaining hands-on experience supporting secure and compliant environments.
+## 🎯 Objective
 
 My background in data science and risk analysis has fueled my passion for cybersecurity. I am now eager to apply my analytical and technical skills in a cybersecurity internship, with a strong interest in Governance, Risk, and Compliance (GRC) as well as Blue Team/SOC operations to strengthen organizational security and resilience.
 
