@@ -11,8 +11,42 @@ My background in data science and risk analysis has fueled my passion for cybers
 
 ## Skills
 [Python | SQL | Risk Assessment | Data Analysis | Network Security | Cyber Threat Intelligence]
-<!--
-**Hanyaahmed/Hanyaahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Projects & Highlights
+
+[**Network Merger & Implementation Plan**](https://github.com/Hanyaahmed/Network-Merger-and-Implementation-Plan) 
+
+— Designed and documented the consolidation of two corporate networks; prioritized seamless transition with security, risk mitigation, and performance in mind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
