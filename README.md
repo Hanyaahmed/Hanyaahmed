@@ -16,8 +16,11 @@ My background in data science and risk analysis has fueled my passion for cybers
 
 [**Network Merger & Implementation Plan**](https://github.com/Hanyaahmed/Network-Merger-and-Implementation-Plan) 
 
-— Designed and documented the consolidation of two corporate networks; prioritized seamless transition with security, risk mitigation, and performance in mind.
+- Designed and documented the consolidation of two corporate networks; prioritized seamless transition with security, risk mitigation, and performance in mind.
 
+[**Commonwealth Bank Cybersecurity Risk Threat Management**](https://github.com/Hanyaahmed/Commonwealth-Bank-Cybersecurity-Risk-Threat-Management)
+
+- Performed a simulated cybersecurity assessment for Commonwealth Bank, analyzing threats and delivering actionable risk management insights.
 
 
 
