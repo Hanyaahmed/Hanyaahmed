@@ -25,7 +25,9 @@ My background in data science and risk analysis has fueled my passion for cybers
 
 ### WGU InfoSec Learning Labs — Applied Cybersecurity Projects
 
+[**Vulnerability Scanning of a Linux Target**](https://github.com/Hanyaahmed/Cybersecurity-Lab-Portfolio)
 
+- I conducted vulnerability scans using various network scanning tools such as nmap/zenmap and OpenVAS. I performed the first two steps in a pen testing process.
 
 
 
