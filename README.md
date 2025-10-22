@@ -23,6 +23,11 @@ My background in data science and risk analysis has fueled my passion for cybers
 - Performed a simulated cybersecurity assessment for Commonwealth Bank, analyzing threats and delivering actionable risk management insights.
 
 
+### WGU InfoSec Learning Labs — Applied Cybersecurity Projects
+
+
+
+
 
 
 
