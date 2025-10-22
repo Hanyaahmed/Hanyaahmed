@@ -10,7 +10,7 @@ My work combines analytical thinking, data-driven decision-making, and proactive
 My background in data science and risk analysis has fueled my passion for cybersecurity. I am now eager to apply my analytical and technical skills in a cybersecurity internship, with a strong interest in Governance, Risk, and Compliance (GRC) as well as Blue Team/SOC operations to strengthen organizational security and resilience.
 
 ## Skills
-[Python | SQL | Risk Assessment | Data Analysis | Network Security | Cyber Threat Intelligence]
+[Python | SQL | R | SAS | HTML | Risk Assessment | Data Analysis | Network Security | Cyber Threat Intelligence]
 
 ### Projects & Highlights
 
