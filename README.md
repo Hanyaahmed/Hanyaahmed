@@ -12,6 +12,20 @@ My background in data science and risk analysis has fueled my passion for cybers
 ## Skills
 [Python | SQL | R | SAS | HTML | Risk Assessment | Data Analysis | Network Security | Cyber Threat Intelligence]
 
+| Skill                                         |  AP                        |
+|-----------------------------------------------|----------------------------|
+| Programming Languages                         | Python, SQL, MySQL, SAS, R, HTML, SAS, C++, Golang, JavaScript, Bash, Automation Scripting |
+| Operating Systems                             | Windows, Linux (Ubuntu), Mac OS |
+| Cybersecurity & Risk                          | Security Operations, Security Compliance, Cloud Security, Risk Analysis, Threat Modeling, Security Architecture, OWASP Principles, Vulnerability Assessment |
+| Networking & Protocols | Networking Fundamentals, TCP/IP, OSI Model, API Security |                        
+| Security & Development Tools         | Splunk (SEIM), Nmap, Wireshark, Postman, Git, Visual Studio, Microsoft Office Suite, Excel |
+| Frameworks      | NIST, GDPR, HIPAA, PCI DSS, ISO 27001, COBIT, SOC Type 2|
+| Cloud & Infrastructure               | AWS, Azure|
+| AI & Data Analysis | AI/ML Models, Data Validation, Predictive Analytics, Object-Oriented Design|
+|Professional Skills                   | Analytical Thinking, Problem Solving, Communicaiton, Collaboration, Leadership|
+
+
+
 ### Projects & Highlights
 
 [**Network Merger & Implementation Plan**](https://github.com/Hanyaahmed/Network-Merger-and-Implementation-Plan) 
